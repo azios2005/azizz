@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <h1>Hello</h1>
+  <h2>I am</h2>
+  <h3>learning</h3>
+  <h4>HTML</h4>
+  <h5>and</h5>
+  <h6>css</h6>
+  <p>to became a web developer</p>
+  <p><i>And</i> this is <sub>space</sub><i>of skills</i><b>iiii</b>  <mark>HTML</mark></p>  
+<ul>
+    <li>fruits
+        <ul><li>apple</li>
+            <li>banana</li>
+            <li>mango</li>
+            <li>Orange</li>
+        </ul>
+    </li>
+    <li>vegetables
+        <ul><li>spinach</li>
+            <li>caulifower</li>
+            <li>beetroot</li>
+        </ul>
+    </li>
+    <li>Cereals</li>
+    <li>Nuts</li>
+</ul>
+<table border="3px">
+    <caption>Students Records</caption>
+<tr>
+    <th>Roll-no</th>
+    <th>Name</th>
+    <th>Total marks</th>
+    <th>Grade</th>
+</tr>
+<tr>
+    <td>1</td>
+    <td>khan</td>
+    <td>500</td>
+    <td>B</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nazia</td>
+<td>850</td>
+<td>A+</td></tr>
+
+</table><br>
+<table border="4">
+    <tr>
+        <th colspan="6">Taime Table</th>
+    </tr>
+    <tr><th rowspan="6">Hours</th>
+    <td>mon</td>
+    <td>tue</td>
+    <td>wed</td>
+    <td>thu</td>
+    <td>fri</td></tr>
+    <tr>
+    <td>math</td>
+    <td>science</td>
+    <td>math</td>
+    <td>science</td>
+    <td>arts</td>
+    </tr>
+    <tr>
+        <td>math</td>
+        <td>science</td>
+        <td>math</td>
+        <td>science</td>
+        <td>arts</td>
+        </tr>
+    <tr><th colspan="5">lunch</th></tr>
+    <tr><td>math</td>
+        <td>science</td>
+        <td>math</td>
+    <td rowspan="2">project</td></tr>
+    <tr><td>math</td>
+        <td>science</td>
+        <td>math</td></tr>
+
+</table><br>
+<table border="4X">
+    <tr><th>Name</th>
+    <th>Subjeect</th>
+    <th>Parts</th></tr>
+    <tr><th rowspan="5">shiva</th>
+    <td rowspan="2">maths</td>
+    <td>a</td></tr>
+    <tr><td>b</td></tr>
+    <tr><td rowspan="3">Science</td>
+    <td>a</td></tr>
+    <tr><td>B</td></tr>
+    <tr><td>C</td></tr>
+    <tr><th rowspan="5">Ram</th>
+    <td rowspan="3">maths</td>
+    <td>a</td></tr>
+    <tr>
+        <tr>
+            <td>b</td>
+        </tr>
+<td rowspan="2">science</td>
+<td>A</td>
+    </tr>
+    <tr><td>B</td></tr>
+</table> 
+</body>
+</html>
